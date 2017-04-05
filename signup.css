@@ -1,0 +1,14 @@
+body
+{
+		background-image: url("image/pic8.jpg");
+		background-position: center;
+		background-size: cover;	
+}
+
+.lala
+{
+	align-content: center;
+	background-color: grey;
+	border-radius: 10%;
+	color: white;
+}
