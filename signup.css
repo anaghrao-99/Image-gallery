@@ -1,14 +1,11 @@
 body
 {
-		background-image: url("pic8.jpg");
-		background-position: center;
-		background-size: cover;	
+	background-image: url("signup12.jpg");
+	background-position: center;
+	background-size: cover;
 }
 
-.lala
+.blabla
 {
-	align-content: center;
-	background-color: grey;
-	border-radius: 10%;
-	color: white;
+	background-color: rgba(115,113,113,0.5);
 }
