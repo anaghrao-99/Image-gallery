@@ -1,0 +1,30 @@
+a{
+	text-decoration: none;
+	color:white;
+		}
+
+a:hover
+{
+	color:white;
+}
+
+
+#instagram:hover
+{
+	text-shadow: 4px 2px red;
+}
+
+#fb:hover
+{
+	text-shadow: 4px 2px blue;
+}
+
+#messenger:hover
+{
+	text-shadow: 4px 2px blue;
+}
+
+#github:hover
+{
+	text-shadow: 4px 2px grey;
+}
